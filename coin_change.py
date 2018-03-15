@@ -74,5 +74,4 @@ class Coins(object):
 
 c = Coins(10, 2, [7, 2])
 print c.main()
-# OP 5
 # TODO Handle multiple coin combination
